@@ -1,43 +1,34 @@
-# KAROL SKOLASIŃSKI
-## Junior Java Developer
-My programming adventure began in 2019. During the intensive course at Software Development Academy I learned a solid foundation of Java and object-oriented programming. Since then programming has become one of my biggest passions. I constantly develop my skills and knowledge by participating in on-line courses and creating my own projects. It is the issues related to the Spring framework that are particularly interesting to me.
+### Hi 👋 I'm **Karol**!
 
-### More info:
-[<img alt="karolskolasinski.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img alt="karolskolasinski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+##### Junior Software Developer 💻
 
-### Check out my projects:
+<hr>
 
-#### code_length
-* a web service created using Java Spring Boot, Security, Thymeleaf, PostgreSQL, Bootstrap, Github API, OAuth2
-* The application calculates the length of your code expressed in kilometers, using the Github API. Enter your username and check the result. The application has a ranking of 10 users with the longest calculated code.
-* [source code](https://github.com/karolskolasinski/code_length)
+#### About
 
-#### bulls_and_cows
-* popular game bulls and cows in the console version
-* [source code](https://github.com/karolskolasinski/bulls_and_cows)
+I'm a software developer who is passionate about IT, making web apps, creating websites. I enjoy building small projects and exploring new technologies.
 
-#### tic_tac_toe
-* popular game tic-tac-toe with AI algorithm in the console version
-* [source code](https://github.com/karolskolasinski/tic_tac_toe)
+- 😊 I'm an open-minded, smiling person
+- 🤝 I'm available for work, looking for opportunities to join as an intern / full-time employee
+- 🌱 I'm currently learning Node.js / JavaScript
+- 💡 I come up with new projects
+- ⛵ I love sailing
+- 🔥 check out my works on <a href="https://github.com/karolskolasinski?tab=repositories">GitHub</a> 
 
-#### magic8ball
-* a simple web service created using Java Spring Boot, Security, Thymeleaf, MongoDB, Materialize
-    * ask the ball a yes-no question,
-    * receive the answer
-* [source code](https://github.com/karolskolasinski/magic8ball)
+#### Contact
 
-#### bquizgame
-* a web service created using Java Spring Boot, Security, Thymeleaf, mySQL, Tomcat, Bootstrap
-    * up to 4 players
-    * 16 questions per Quiz
-    * scores
-    * statistics
-    * question editor
-* [source code](https://github.com/karolskolasinski/bquizgame)
+Find me around the web:
 
-### Stats
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=karolskolasinski&count_private=true"/>
+<p align="center">
 
-[website]: https://karolskolasinski.pl
-[linkedin]: https://www.linkedin.com/in/karolskolasinski/
+[![Website Badge](https://img.shields.io/badge/%F0%9F%8C%90%20Website-karolsklasinski.pl-9012fe?style=flat-square&logoColor=white&link=https://karolskolasinski.pl/)](https://karolskolasinski.pl/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Karol%20Skolasiński-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolskolasinski/)](https://www.linkedin.com/in/karolskoalsinski/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-karolskoalsinski@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:karolskolasinski@gmail.com)](mailto:karolskolasinski@gmail.com)
+ 
+</p>
+
+#### Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=karolskolasinski&theme=buefy&count_private=true" alt="My GitHub stats" width="350px">
+    <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="138px">
+</p>
