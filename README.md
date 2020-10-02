@@ -27,4 +27,4 @@ Find me around the web:
 <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="138px">
 </div>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" alt="Visitor Badge">
+![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) <img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" width="82">
