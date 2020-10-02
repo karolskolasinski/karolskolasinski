@@ -26,3 +26,5 @@ Find me around the web:
 <img src="https://github-readme-stats.vercel.app/api?username=karolskolasinski&theme=buefy&count_private=true" alt="My GitHub stats" width="350px">
 <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="138px">
 </div>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" alt="Visitor Badge">
