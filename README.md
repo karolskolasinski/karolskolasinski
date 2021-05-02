@@ -4,7 +4,7 @@
 <hr>
 
 ## About
-- ⌨ I am a software developer, IT enthusiast, passionate about creating web applications
+- ⌨ I'm a software developer, IT enthusiast, passionate about creating web applications
 - 👍 I like learning new technologies
 - 😊 I'm an open-minded, smiling and positive person
 - 🤝 I work as Front-End Developer
