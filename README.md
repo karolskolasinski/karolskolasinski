@@ -25,7 +25,7 @@ Find me around the web:
 ## Stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=karolskolasinski&theme=buefy&count_private=true" alt="My GitHub stats" width="450px">
-<img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="176.5px">
+<img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="177px">
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) <img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" width="81px">
