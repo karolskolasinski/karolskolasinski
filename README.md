@@ -12,7 +12,7 @@
 - 🎯 My future goal is to develop Android applications
 - 💡 I come up with new projects
 - ⛵ I love sailing
-- 🔥 check out my repos on <a href="https://github.com/karolskolasinski?tab=repositories">GitHub</a> 
+- 🔥 check out my <a href="https://github.com/karolskolasinski?tab=repositories">repositories</a> 
 
 ## Contact
 Find me around the web:
