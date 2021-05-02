@@ -9,6 +9,7 @@
 - 😊 I'm an open-minded, smiling and positive person
 - 🤝 I work as Front-End Developer
 - 🌱 I'm currently learning Node.js and React.js
+- 🎯 My future goal is to develop Android applications
 - 💡 I come up with new projects
 - ⛵ I love sailing
 - 🔥 check out my repos on <a href="https://github.com/karolskolasinski?tab=repositories">GitHub</a> 
