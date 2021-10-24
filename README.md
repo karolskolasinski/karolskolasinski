@@ -1,5 +1,5 @@
 # Hi 👋 I'm Karol!
-### Junior Software Developer 💻
+### Full-stack developer 💻
 
 <hr>
 
@@ -19,7 +19,6 @@ Find me around the web:
 
 [![Website Badge](https://img.shields.io/badge/%F0%9F%8C%90%20Website-karolsklasinski.pl-9012fe?style=flat-square&logoColor=white&link=https://karolskolasinski.pl/)](https://karolskolasinski.pl/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Karol%20Skolasiński-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolskolasinski/)](https://www.linkedin.com/in/karolskoalsinski/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-karolskoalsinski✉gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:karolskolasinski✉gmail.com)](mailto:karolskolasinski✉gmail.com)
 
 
 ## Stats
