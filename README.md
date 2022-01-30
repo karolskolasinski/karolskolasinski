@@ -5,19 +5,17 @@
 
 ## About
 - ⌨ I'm a software developer, IT enthusiast, passionate about creating web applications
-- 👍 I like learning new technologies
-- 😊 I'm an open-minded, smiling and positive person
-- 🤝 I work as Front-End Developer
-- 🌱 I'm currently learning Node.js and React.js
-- 🎯 My future goal is to develop Android applications
-- 💡 I come up with new projects
+- 👍 I like learning new technologies and coming up with new projects
+- 😊 I'm an open-minded, smiling and positive person, I like creative ideas and courageous, full of energy, intelligent people
+- 🤝 I work as Full-stack Developer
+- 🌱 I'm currently learning functional programming and JavaScript frameworks
+- 🎯 My future goal is to create mobile applications
 - ⛵ I love sailing
 - 🔥 check out my <a href="https://github.com/karolskolasinski?tab=repositories">repositories</a> 
 
 ## Contact
 Find me around the web:
 
-[![Website Badge](https://img.shields.io/badge/%F0%9F%8C%90%20Website-karolsklasinski.pl-9012fe?style=flat-square&logoColor=white&link=https://karolskolasinski.pl/)](https://karolskolasinski.pl/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Karol%20Skolasiński-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolskolasinski/)](https://www.linkedin.com/in/karolskoalsinski/)
 
 
