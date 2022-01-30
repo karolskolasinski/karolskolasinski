@@ -1,9 +1,8 @@
-# Hi 👋 I'm Karol!
-### Full-stack developer 💻
+# HELLO! 👋
 
 <hr>
 
-## About
+## About me:
 - ⌨ I'm a software developer, IT enthusiast, passionate about creating web applications
 - 👍 I like learning new technologies and coming up with new projects
 - 😊 I'm an open-minded, smiling and positive person, I like creative ideas and courageous, full of energy, intelligent people
