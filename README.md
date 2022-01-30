@@ -1,7 +1,5 @@
 # HELLO! 👋
 
-<hr>
-
 ## About me:
 - ⌨ I'm a software developer, IT enthusiast, passionate about creating web applications
 - 👍 I like learning new technologies and coming up with new projects
