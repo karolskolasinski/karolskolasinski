@@ -24,4 +24,4 @@ Find me around the web:
 
 ![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) <img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" width="81px">
 
-<p style="color: darkcyan">Test</p>
+<p style="color: darkcyan; font-size: 2em; font-weight: bolder">Test</p>
