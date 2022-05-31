@@ -9,7 +9,6 @@
 - 🎯 my future goal is to create mobile applications
 - 🏓 my hobby is table tennis
 - ⛵ I love sailing
-- 🔥 check out my <a href="https://github.com/karolskolasinski?tab=repositories">repositories</a> 
 
 ## Contact
 Find me around the web:
@@ -23,4 +22,5 @@ Find me around the web:
 <img src = "https://github-readme-stats-git-master.zephirorb.vercel.app/api/top-langs/?username=karolskolasinski&hide=erlang,shell,dockerfile,handlebars&theme=buefy&layout=compact&count_private=true" alt="Most used languages" height="177px">
 </div>
 
-![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) <img src="https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski" width="81px">
+![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) 
+![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski)
