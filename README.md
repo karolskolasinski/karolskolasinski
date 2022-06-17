@@ -13,7 +13,7 @@
 ## Contact
 Find me around the web:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Karol%20Skolasiński-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolskolasinski/)](https://www.linkedin.com/in/karolskoalsinski/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Karol%20Skolasiński-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karolskolasinski/)](https://www.linkedin.com/in/karolskolasinski/)
 
 
 ## Stats
