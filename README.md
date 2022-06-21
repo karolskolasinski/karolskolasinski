@@ -25,4 +25,5 @@ Find me around the web:
 ![GitHub followers](https://img.shields.io/github/followers/karolskolasinski?color=white&label=followers&logo=github) 
 ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=karolskolasinski)
 
-<p style={color: blue;}>test</p>
+<span style="color:blue">some *blue* text</span>.
+
