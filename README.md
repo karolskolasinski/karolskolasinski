@@ -1,14 +1,4 @@
-# HELLO! 👋
-
-- ⌨ I'm a software developer, IT enthusiast, passionate about creating web applications
-- 👍 I like learning new technologies
-- 😊 I'm an open-minded, smiling and positive person
-- 💡 I like creative ideas and courageous, full of energy, intelligent people
-- 🤝 I work as a Full-stack Developer
-- 🌱 I currently learn functional programming and JavaScript frameworks
-- 🎯 my future goal is to create mobile applications
-- 🏓 my hobby is table tennis
-- ⛵ I love sailing
+# Software Developer
 
 ## Contact
 Find me around the web:
