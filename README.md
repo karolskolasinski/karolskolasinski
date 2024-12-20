@@ -1,5 +1,7 @@
 # Software Developer
 
+<img src="coding.gif" alt="coding" >
+
 ## Contact
 Find me around the web:
 
